@@ -1,0 +1,4 @@
+version: 0.1
+released: 2022-05-05
+goRestUrl: https://gorest.co.in/public/v2
+local: true
